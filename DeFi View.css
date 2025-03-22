@@ -17,8 +17,8 @@ body{
   min-height:100vh;
 }
 .containerLP img{
-  height:100px;
-  width:100px; 
+  height:200px;
+  width:200px; 
   display: flex;
   justify-content: center;
   align-items: center;
@@ -29,7 +29,7 @@ body{
   margin: 0 3% 0 3%;
 }
 #LPh1{
-  margin: 50% 5% 0 5%;
+  margin: 10% 5% 0 5%;
   font-size:2rem;
   font-weight: bold;
   font-family:Helvetica, sans-serif;
@@ -120,6 +120,7 @@ i{
   color:black;
   border-radius: 10px;
   overflow: visible;
+  padding-bottom: 5%;
   display: none;
 }
 .formcontainer h1{
